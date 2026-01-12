@@ -1,4 +1,4 @@
-# 🗡️ 万剑归宗 - Cyber Xianxia
+Cyber Xianxia
 ### Ten Thousand Swords Return to the Sect: Gesture-Controlled Interactive Art
 
 A high-performance, web-based "Cyber Xianxia" experience. Use your real-world hand gestures to control a swarm of 300+ flying swords using **MediaPipe Hands** and **Three.js**.
@@ -35,3 +35,8 @@ Because modern browsers require **HTTPS** or **Localhost** for camera access:
 - [Three.js](https://threejs.org/) - 3D Rendering Engine
 - [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html) - ML Hand Tracking
 - [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) - UI Overlay
+
+
+## 
+[liveDemo]
+https://nabi004646.github.io/shords/
